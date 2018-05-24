@@ -1,3 +1,9 @@
+xkeyboard-config (2.19-2pardus1) onyedi; urgency=medium
+
+  * Add rudimentary support for the Ottoman Turkish
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Thu, 24 May 2018 16:32:22 +0300
+
 xkeyboard-config (2.19-1+deb9u1) stretch; urgency=medium
 
   * Non-maintainer upload.
